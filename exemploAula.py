@@ -1,6 +1,6 @@
 nome = "Bryan"
 sobrenome = "de Souza Spaey"
-idade = "18"
+idade = "19"
 
 #Declaração de variaveis
 
@@ -17,4 +17,5 @@ print(f"Seu nome é: {nome} {sobrenome} \ne a sua idade é: {idade}")
 print(f"Seu nome é: {nome}")
 print(f"Seu sobrenome é: {sobrenome}")
 print(f"Sua idade é: {idade}")
+
 
